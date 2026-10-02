@@ -1,0 +1,6 @@
+{
+  "name": "Educare School",
+  "description": "Complete School Management System for Educare School System Chagmalai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
